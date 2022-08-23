@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/GRT_Rural">
+    <file>images/network.jpg</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
